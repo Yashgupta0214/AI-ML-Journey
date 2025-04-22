@@ -6,4 +6,5 @@ NUMPY,PANDAS,MATPLOTLIB,SEABORN
 As a 12th grader,i know maths and now i'll go for basic machine learning 
 hey guys , i am thinking of starting a daily blogging here by wirtting the day and date and wiritng here daily what i have learn 
 and also i will be **sharing** the code here so we'll start from tommorow and as far we are learning seaborn.
-s
+<p> so, today(22,04,25), day 1 - i have made a simple game to revise my topics</p>
+<p>and learnt box plot and violin plot in seaborn and i am done for the morning </p>
