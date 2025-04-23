@@ -8,3 +8,5 @@ hey guys , i am thinking of starting a daily blogging here by wirtting the day a
 and also i will be **sharing** the code here so we'll start from tommorow and as far we are learning seaborn.
 <p> so, today(22,04,25), day 1 - i have made a simple game to revise my topics</p>
 <p>and learnt box plot and violin plot in seaborn and i am done for the morning </p>
+<h>so this is day 2 (23/04/25)</h>
+<p> now we are moving to basic maths and its revision i know some maths today i'll do linear algebra</p>
