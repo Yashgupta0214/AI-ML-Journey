@@ -10,3 +10,4 @@ and also i will be **sharing** the code here so we'll start from tommorow and as
 <p>and learnt box plot and violin plot in seaborn and i am done for the morning </p>
 <h>so this is day 2 (23/04/25)</h>
 <p> now we are moving to basic maths and its revision i know some maths today i'll do linear algebra</p>
+<p> summary of day3 and day four started machine learning and revised maths</p>
